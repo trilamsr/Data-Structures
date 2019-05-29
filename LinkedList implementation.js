@@ -79,4 +79,3 @@ const alphabet = "a".split("");
 for (let i of alphabet) {
   aList.addBack(i);
 }
-console.log(aList);
